@@ -1,0 +1,132 @@
+---
+title: "Opportunities at NIFU and more"
+subtitle: "CREATE-retreat"
+author: "Stephan Daus"
+date: today
+date-format: "DD MMMM, YYYY"
+format: 
+  revealjs:
+    theme: solarized
+    slide-number: true
+    center-title-slide: false
+    transition: slide
+---
+
+# Brief CV
+
+- MSc in Social Statistics (+ International Development)
+- PhD, 2019
+- Researcher, NIFU, 2018
+- Researcher II, Høyskolen Kristiania, 2024
+- Consultant, Nokut, 2026
+- Founder, Validaris AS, 2026
+- Experience from 25+ surveys
+
+## NIFU
+
+- Educational research 
+  - kindergarten ↔ university and higher vocational
+- Innovation, research/bibliometrics and related fields
+
+- 15% "free time", rest commissioned or grants
+
+
+## My work at NIFU
+- 90% survey-work (all steps of the process)
+  - Sometimes only a single step
+- High degree of grant-based operational work
+- Prefer "pupils' 21st century skills in G1-G10"
+  - Rarely occurs, but often nearby interests
+
+# University vs research institute
+
+## Commissioned research
+
+![https://no.wikipedia.org/wiki/Liste_over_uavhengige_forskningsinstitutter_i_Norge](institutter.png)
+
+::: {.notes}
+- Never "We fund you if your study support our belief"
+- Udir/KD/HK-dir/KMD/NAV => Mostly professional agencies
+- But _given_ scope, _suggested_ RQs and/or general methods (survey)
+:::
+
+## Similarities 
+- Competent and motivated PhD-level colleagues
+- Variety and things to learn
+- Less exciting stuff (admin, projects, collabs, etc)
+- Metrics → stress: Funding and publication
+
+## Differences
+- Teaching vs commissioned research
+- Depth vs width
+ - Time per task
+ - Different contexts
+- Job safety
+- Incentives
+  - Teach, publish articles, get NRC/EU funding
+  - Invoice, publish articles, get any funding
+- Salary and perks
+
+::: {.notes}
+**Salary and perks**
+- Starting salary at level of associate professor
+- Not so great as a senior
+- Sports: workout groups, bouldering, PT, football, running, pingpong, padel, interval runs, special events days
+- Social: 4 bigger parties per year, lønningspils, weekly newspaper quiz, group chess, common eating time in the canteen
+- Academic: quantitative brown bag seminars, 
+:::
+
+## Limitations
+- Near-fluent Norwegian language requirement
+- Randomness in calls and collaborator availability
+- Hard to predict own behaviour and growth
+- = your milage may differ. 
+
+
+# Development over time
+
+## Senior compared to junior
+- Leading more projects/applications
+- Fewer projects
+- Much more free time, workout, life
+- More side-projects/consultancy/etc
+- Bit more advisory role
+- Pickier on design, topic, etc.
+
+## Example years
+- q = at least general quantitative
+- s = at least survey-work
+- p = proper psychometric analyses
+
+## Junior: 2019
+
+- Reviewing measures of Norwegians' digital skills (KMD; q)
+- Teachers' digital competences (USN; p)
+- Questions to School-Norway (Udir; s)
+- Merger at University College Vestlandet (HVL; s)
+- RCT of a marketing learning game (RFF; p)
+- RCT on extra teacher (RCN; p)
+- ++ many smaller tasks
+- Finishing PhD/defence/awards/etc in spare time
+
+## Senior: 2026
+- Revising the higher vocational student survey (HK-dir; p)
+- Schools' implementation of _Health and Life Skills_ (ERC; p)
+- Students' GenAI skills across 5 countries (NordForsk; p)
+- Review of suvey recruitment strategies (core funding; s)
+- Measuring executives' room to maneuver (p)
+- RCT on teacher PD (RCN proposal; p)
+- +++ Backlog of articles, Saros, etc
+
+
+## What made me choose NIFU after my doctoral research fellowship at CEMO?
+
+. . .
+
+- Butterfly effect?
+
+. . .
+
+- Seeking real data and policy-impacting projects
+- Knew 2 former colleagues there who mentioned the pros and cons
+- The only relevant position available when I was searching and got it immediately...
