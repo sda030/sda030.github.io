@@ -54,33 +54,43 @@ format:
 - Competent and motivated PhD-level colleagues
 - Variety and things to learn
 - Less exciting stuff (admin, projects, collabs, etc)
-- Metrics → stress: Funding and publication
+- Metrics → stress: Funding, publication, duties
 
 ## Differences
 - Teaching vs commissioned research
 - Depth vs width
- - Time per task
- - Different contexts
+  - Time per task
+  - Different contexts
 - Job safety
-- Incentives
-  - Teach, publish articles, get NRC/EU funding
-  - Invoice, publish articles, get any funding
 - Salary and perks
 
 ::: {.notes}
 **Salary and perks**
 - Starting salary at level of associate professor
 - Not so great as a senior
-- Sports: workout groups, bouldering, PT, football, running, pingpong, padel, interval runs, special events days
+- Sports: workout groups, bouldering, PT, football, pingpong, padel, interval runs, special events
 - Social: 4 bigger parties per year, lønningspils, weekly newspaper quiz, group chess, common eating time in the canteen
-- Academic: quantitative brown bag seminars, 
+- Academic: quantitative brown bag seminars
 :::
 
-## Limitations
+## The small font
 - Near-fluent Norwegian language requirement
 - Randomness in calls and collaborator availability
 - Hard to predict own behaviour and growth
 - = your milage may differ. 
+
+
+## What made me choose NIFU after my doctoral research fellowship at CEMO?
+
+. . .
+
+- Butterfly effect?
+
+. . .
+
+- Seeking real data and policy-impacting projects
+- Knew 2 former colleagues there who mentioned the pros and cons
+- The only relevant position available when I was searching and got it immediately...
 
 
 # Development over time
@@ -122,15 +132,3 @@ format:
 - RCT on teacher PD (**RCN proposal**; p)
 - +++ Backlog of articles, Saros, etc
 
-
-## What made me choose NIFU after my doctoral research fellowship at CEMO?
-
-. . .
-
-- Butterfly effect?
-
-. . .
-
-- Seeking real data and policy-impacting projects
-- Knew 2 former colleagues there who mentioned the pros and cons
-- The only relevant position available when I was searching and got it immediately...
