@@ -50,7 +50,7 @@ format:
 - But _given_ scope, _suggested_ RQs and/or general methods (survey)
 :::
 
-## Similarities 
+## Similarities UiO & NIFU
 - Competent and motivated PhD-level colleagues
 - Variety and things to learn
 - Less exciting stuff (admin, projects, collabs, etc)
