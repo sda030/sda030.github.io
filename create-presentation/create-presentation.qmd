@@ -98,24 +98,28 @@ format:
 - s = at least survey-work
 - p = proper psychometric analyses
 
+- _commissioned research_
+- **research grants**
+
 ## Junior: 2019
 
-- Reviewing measures of Norwegians' digital skills (KMD; q)
-- Teachers' digital competences (USN; p)
-- Questions to School-Norway (Udir; s)
-- Merger at University College Vestlandet (HVL; s)
-- RCT of a marketing learning game (RFF; p)
-- RCT on extra teacher (RCN; p)
+- Reviewing measures of Norwegians' digital skills (_KMD_; q)
+- Teachers' digital competences (_USN_; p)
+- Questions to School-Norway (_Udir_; s)
+- Merger at University College Vestlandet (_HVL_; s)
+- RCT of an ed-tech marketing game (**RFF**; p)
+- RCT of an extra teacher (**RCN**; p)
 - ++ many smaller tasks
 - Finishing PhD/defence/awards/etc in spare time
 
 ## Senior: 2026
-- Revising the higher vocational student survey (HK-dir; p)
-- Schools' implementation of _Health and Life Skills_ (ERC; p)
-- Students' GenAI skills across 5 countries (NordForsk; p)
-- Review of suvey recruitment strategies (core funding; s)
-- Measuring executives' room to maneuver (p)
-- RCT on teacher PD (RCN proposal; p)
+- Revising the higher vocational student survey (_HK-dir_; p)
+- Schools' implementation of _Health and Life Skills_ (**ERC**; p)
+- After-school care for inclusion (**RCN**; s)
+- Students' GenAI skills across 5 countries (**NordForsk**; p)
+- Review of suvey recruitment strategies (**core funding**; s)
+- Measuring executives' room to maneuver (_Spekter_; p)
+- RCT on teacher PD (**RCN proposal**; p)
 - +++ Backlog of articles, Saros, etc
 
 
