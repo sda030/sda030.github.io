@@ -93,17 +93,7 @@ format:
 - The only relevant position available when I was searching and got it immediately...
 
 
-# Development over time
-
-## Senior compared to junior
-- Leading more projects/applications
-- Fewer projects
-- Much more free time, workout, life
-- More side-projects/consultancy/etc
-- Bit more advisory role
-- Pickier on design, topic, etc.
-
-## Example years
+# Development over time: Example years
 - q = at least general quantitative
 - s = at least survey-work
 - p = proper psychometric analyses
@@ -123,6 +113,7 @@ format:
 - Finishing PhD/defence/awards/etc in spare time
 
 ## Senior: 2026
+
 - Revising the higher vocational student survey (_HK-dir_; p)
 - Schools' implementation of _Health and Life Skills_ (**ERC**; p)
 - After-school care for inclusion (**RCN**; s)
@@ -130,5 +121,5 @@ format:
 - Review of suvey recruitment strategies (**core funding**; s)
 - Measuring executives' room to maneuver (_Spekter_; p)
 - RCT on teacher PD (**RCN proposal**; p)
-- +++ Backlog of articles, Saros, etc
+- +++ Backlog
 
