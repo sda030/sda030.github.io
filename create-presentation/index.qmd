@@ -40,9 +40,9 @@ format:
 
 # University vs research institute
 
-## Commissioned research
-
 ![https://no.wikipedia.org/wiki/Liste_over_uavhengige_forskningsinstitutter_i_Norge](institutter.png)
+
+
 
 ::: {.notes}
 - Never "We fund you if your study support our belief"
@@ -89,11 +89,11 @@ format:
 . . .
 
 - Seeking real data and policy-impacting projects
-- Knew 2 former colleagues there who mentioned the pros and cons
-- The only relevant position available when I was searching and got it immediately...
+- Knew two there who informed me
+- Only relevant and available job when I was searching and got it immediately...
 
 
-# Development over time: Example years
+# Example years
 - q = at least general quantitative
 - s = at least survey-work
 - p = proper psychometric analyses
@@ -103,10 +103,10 @@ format:
 
 ## Junior: 2019
 
-- Reviewing measures of Norwegians' digital skills (_KMD_; q)
 - Teachers' digital competences (_USN_; p)
 - Questions to School-Norway (_Udir_; s)
 - Merger at University College Vestlandet (_HVL_; s)
+- Reviewing measures of Norwegians' digital skills (_KMD_; q)
 - RCT of an ed-tech marketing game (**RFF**; p)
 - RCT of an extra teacher (**RCN**; p)
 - ++ many smaller tasks
